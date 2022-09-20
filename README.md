@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on FE
+- 😼 My personal blog [qiuxc.cn](https://qiuxc.cn)

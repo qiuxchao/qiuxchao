@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 ### Dashboard 🔴
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=qiuxchao&theme=dracula)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=qiuxchao&theme=dracula&count_private=true)
 
 ![TopLangs](https://github-readme-stats.vercel.app/api/top-langs?username=qiuxchao&layout=compact&show_icons=true&theme=dracula)  
 

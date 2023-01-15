@@ -23,6 +23,6 @@ Here are some ideas to get you started:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=qiuxchao&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qiuxchao&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qiuxchao&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 <img src="https://visitor-badge.glitch.me/badge?page_id=qiuxchao" />

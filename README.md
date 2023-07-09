@@ -20,5 +20,3 @@
 ![Anurag's GitHub stats](https://readme-stats-qiuxchao.vercel.app/api?username=qiuxchao&show_icons=true&theme=radical)
 
 [![Top Langs](https://readme-stats-qiuxchao.vercel.app/api/top-langs/?username=qiuxchao&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-<img src="https://visitor-badge.glitch.me/badge?page_id=qiuxchao" />

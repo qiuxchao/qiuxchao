@@ -32,4 +32,4 @@
 
 ### 🏆 Github Profile Trophy
 
-![trophy](https://github-profile-trophy.vercel.app/?username=qiuxchao&theme=radical&margin-w=15&margin-h=15)
+![trophy](https://github-profile-trophy.vercel.app/?username=qiuxchao&theme=radical&margin-w=10&margin-h=10)

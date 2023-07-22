@@ -1,4 +1,4 @@
-<div style="text-align: center"><img src="https://profile-counter.glitch.me/qiuxchao/count.svg" /></div>
+<div style="text-align: center"><img src="https://profile-counter.glitch.me/qiuxchao/count.svg?color=red" /></div>
 
 ### Hi there 👋
 
@@ -32,4 +32,4 @@
 
 ### 🏆 Github Profile Trophy
 
-![trophy](https://github-profile-trophy.vercel.app/?username=qiuxchao&theme=radical)
+![trophy](https://github-profile-trophy.vercel.app/?username=qiuxchao&theme=radical&margin-w=15&margin-h=15)

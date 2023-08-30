@@ -30,6 +30,6 @@
   </thead>
 </table>
 
-### 🏆 Github Profile Trophy
+### Github Profile Trophy 🏆
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=qiuxchao&theme=radical&margin-w=16&margin-h=10)

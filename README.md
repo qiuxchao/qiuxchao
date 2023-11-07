@@ -3,7 +3,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on FE
-- 😼 My personal blog [qiuxc.cn](https://qiuxc.cn)
+- 😼 My personal blog [qiuxc.cn](https://blog.qiuxc.cn)
 
 ### Skils 💪
 
